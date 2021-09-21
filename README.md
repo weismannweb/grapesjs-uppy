@@ -100,7 +100,7 @@ Modern javascript
 import grapesjs from 'grapesjs';
 import plugin from 'grapesjs-uppy';
 import 'grapesjs/dist/css/grapes.min.css';
-import 'grapesjs-uppy/dist/grapes-uppy.min.css';
+import 'grapesjs-uppy/dist/grapesjs-uppy.min.css';
 
 const editor = grapesjs.init({
   container : '#gjs',
